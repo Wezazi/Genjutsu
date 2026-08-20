@@ -15,3 +15,5 @@ How to use:
 3.pip install playwright  
 4.playwright install  
 5.python genjutsu.py  
+
+Make sure to quickly press decline optional cookies while the script is running, otherwise the banner will appear in the cloned site
